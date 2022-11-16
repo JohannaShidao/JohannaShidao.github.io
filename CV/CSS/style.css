@@ -1,0 +1,21 @@
+/************************** tag selector ***************************/
+body{
+    background-color:#F0EBCE
+  }
+hr{
+    border-style: dotted none none;
+    border-width:medium;
+    border-color:#AA8B56;
+    border-width: 10px;
+    margin:auto;
+    width: 5%;
+    
+  }
+h2,h3{
+    color: #4E6C50;
+}
+
+p{
+    color:grey
+}
+/************************** class selector ***************************/
